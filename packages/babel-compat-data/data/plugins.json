@@ -5,6 +5,7 @@
     "edge": "94",
     "firefox": "93",
     "node": "16.11",
+    "samsung": "17",
     "electron": "15.0"
   },
   "proposal-private-property-in-object": {
@@ -15,6 +16,7 @@
     "safari": "15",
     "node": "16.9",
     "ios": "15",
+    "samsung": "16",
     "electron": "13.0"
   },
   "proposal-class-properties": {
@@ -81,6 +83,7 @@
     "safari": "13.1",
     "node": "16.9",
     "ios": "13.4",
+    "samsung": "16",
     "electron": "13.0"
   },
   "proposal-json-strings": {

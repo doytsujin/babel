@@ -86,6 +86,7 @@
     "safari": "13.1",
     "node": "16.9",
     "ios": "13.4",
+    "samsung": "16",
     "electron": "13.0"
   },
   "proposal-optional-chaining": {
